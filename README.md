@@ -4,3 +4,4 @@
 ### 访问预定义热键操作的动作库，以便根据您的要求选择首选的热键操作
 除了屏幕上提供的热键外，该应用程序还可以切换它们并为主界面主切换窗口中的不同位置选择不同的热键。
 有一个可以选择的预定义动作列表，它设法涵盖了与您在浏览器上浏览 Internet 时将执行的一些最常用的任务和操作相关的要求。
+![screenshots](https://github.com/powerwant/BrowserToy/blob/main/screenshots.gif)
